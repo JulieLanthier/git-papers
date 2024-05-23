@@ -1,7 +1,7 @@
 
 This is a paper....
 By MEX
-
+My affiliation McGill
 
 #Intro
 very important introduction
