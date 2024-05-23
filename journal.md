@@ -1,9 +1,11 @@
 
 This is a paper....
 By MEX
-And all of my friends.
 
-##Intro
+And all of my friends.
+My affiliation McGill
+
+#Intro
 very important introduction
 
 
